@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Aruna-Duraisamy/react-digital-clock/static/css/main.bc6feeec.css",
-    "main.js": "/Aruna-Duraisamy/react-digital-clock/static/js/main.3fa22f34.js",
-    "static/js/787.5d21897f.chunk.js": "/Aruna-Duraisamy/react-digital-clock/static/js/787.5d21897f.chunk.js",
-    "index.html": "/Aruna-Duraisamy/react-digital-clock/index.html",
-    "main.bc6feeec.css.map": "/Aruna-Duraisamy/react-digital-clock/static/css/main.bc6feeec.css.map",
-    "main.3fa22f34.js.map": "/Aruna-Duraisamy/react-digital-clock/static/js/main.3fa22f34.js.map",
-    "787.5d21897f.chunk.js.map": "/Aruna-Duraisamy/react-digital-clock/static/js/787.5d21897f.chunk.js.map"
+    "main.css": "/react-digital-clock/static/css/main.bc6feeec.css",
+    "main.js": "/react-digital-clock/static/js/main.7670a4af.js",
+    "static/js/787.5d21897f.chunk.js": "/react-digital-clock/static/js/787.5d21897f.chunk.js",
+    "index.html": "/react-digital-clock/index.html",
+    "main.bc6feeec.css.map": "/react-digital-clock/static/css/main.bc6feeec.css.map",
+    "main.7670a4af.js.map": "/react-digital-clock/static/js/main.7670a4af.js.map",
+    "787.5d21897f.chunk.js.map": "/react-digital-clock/static/js/787.5d21897f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc6feeec.css",
-    "static/js/main.3fa22f34.js"
+    "static/js/main.7670a4af.js"
   ]
 }
